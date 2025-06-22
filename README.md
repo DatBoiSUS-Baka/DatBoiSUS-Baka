@@ -6,7 +6,7 @@ I am currently studying Computer Science in Universitas Pendidikan Indonesia. As
 <h3 align="left">Languages and Tools I'm Currently Learning</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,godot,java, ruby" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,godot,java,ruby" />
   </a>
 </p>
 
