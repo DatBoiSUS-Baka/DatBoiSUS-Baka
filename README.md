@@ -10,3 +10,5 @@ I am currently studying Computer Science in Universitas Pendidikan Indonesia. As
   </a>
 </p>
 
+<!-- Music Section -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317fszah6us247sjjfkt5jvbsfu4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
