@@ -1,4 +1,6 @@
-## Hi there 👋
+🚧 I have moved!
+
+        My GitHub profile has been renamed to @kbachariputra. All my projects and history can be found there.
 
 <!--
 **DatBoiSUS-Baka/DatBoiSUS-Baka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
